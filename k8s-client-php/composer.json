@@ -1,0 +1,8 @@
+{
+    "name": "mastering/k8s-client-php",
+    "description": "Kubernetes PHP client examples",
+    "type": "project",
+    "require": {
+        "maclof/kubernetes-client": "^0.31.0"
+    }
+}
