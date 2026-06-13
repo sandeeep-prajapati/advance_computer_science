@@ -28,26 +28,26 @@ Software Engineering  → Bioinformatics pipelines, workflow orchestration
 
 | Chapter | Title | Key Concepts |
 |---|---|---|
-| 01 | Biology for CS Programmers | DNA, RNA, proteins, cells — from a data perspective |
-| 02 | Genomics and Sequencing | NGS, FASTQ, BAM, variant calling, WGS/WES/RNA-seq |
-| 03 | Sequence Analysis & Bioinformatics | BLAST, alignment, Smith-Waterman, CLUSTAL |
-| 04 | CRISPR-Cas9 Gene Editing | Mechanism, guide RNA design, off-targets, delivery |
-| 05 | Protein Structure and AlphaFold | Folding problem, AlphaFold2, ESMFold, structure-function |
-| 06 | Gene Expression & Transcriptomics | RNA-seq, differential expression, DESeq2, scRNA-seq |
-| 07 | Synthetic Biology | Parts, circuits, BioBricks, metabolic engineering |
-| 08 | Drug Discovery with AI | Virtual screening, QSAR, generative models, AlphaFold |
-| 09 | Epigenetics and Regulation | DNA methylation, ChIP-seq, regulatory networks |
-| 10 | Population Genetics & GWAS | SNPs, GWAS, polygenic scores, ancestry |
-| 11 | Cancer Genomics | Mutations, tumor evolution, liquid biopsy, immunotherapy |
-| 12 | Protein Engineering with AI | Directed evolution, protein language models, RFdiffusion |
-| 13 | Metagenomics & Microbiome | 16S rRNA, shotgun sequencing, microbiome analysis |
-| 14 | CRISPR Screening | Pooled screens, MAGeCK algorithm, genome-wide screens |
-| 15 | Single-Cell Multi-omics | scRNA-seq, ATAC-seq, spatial transcriptomics, Seurat |
-| 16 | Bioinformatics Pipelines | Nextflow, Snakemake, WDL, cloud genomics (AWS/GCP) |
-| 17 | AI for Genomics | Deep learning, graph neural nets, transformers for DNA/protein |
-| 18 | Ethics, Safety, and Regulation | Biosafety, dual-use research, FDA/EMA, gene therapy ethics |
-| 19 | Solving Real Problems | Case studies: COVID-19, sickle cell, CAR-T, insulin |
-| 20 | Learning Roadmap | 6-week plan, projects, career paths in computational biology |
+| 01 | [Biology for CS Programmers](01_biology_for_cs.md) | DNA, RNA, proteins, cells — from a data perspective |
+| 02 | [Genomics and Sequencing](02_genomics_and_sequencing.md) | NGS, FASTQ, BAM, variant calling, WGS/WES/RNA-seq |
+| 03 | [Sequence Analysis & Bioinformatics](03_sequence_analysis.md) | BLAST, alignment, Smith-Waterman, CLUSTAL |
+| 04 | [CRISPR-Cas9 Gene Editing](04_crispr.md) | Mechanism, guide RNA design, off-targets, delivery |
+| 05 | [Protein Structure and AlphaFold](05_protein_structure_alphafold.md) | Folding problem, AlphaFold2, ESMFold, structure-function |
+| 06 | [Gene Expression & Transcriptomics](06_gene_expression_transcriptomics.md) | RNA-seq, differential expression, DESeq2, scRNA-seq |
+| 07 | [Synthetic Biology](07_synthetic_biology.md) | Parts, circuits, BioBricks, metabolic engineering |
+| 08 | [Drug Discovery with AI](08_drug_discovery_ai.md) | Virtual screening, QSAR, generative models, AlphaFold |
+| 09 | [Epigenetics and Regulation](09_epigenetics_regulation.md) | DNA methylation, ChIP-seq, regulatory networks |
+| 10 | [Population Genetics & GWAS](10_population_genetics_gwas.md) | SNPs, GWAS, polygenic scores, ancestry |
+| 11 | [Cancer Genomics](11_cancer_genomics.md) | Mutations, tumor evolution, liquid biopsy, immunotherapy |
+| 12 | [Protein Engineering with AI](12_protein_engineering_ai.md) | Directed evolution, protein language models, RFdiffusion |
+| 13 | [Metagenomics & Microbiome](13_metagenomics_microbiome.md) | 16S rRNA, shotgun sequencing, microbiome analysis |
+| 14 | [CRISPR Screening](14_crispr_screening.md) | Pooled screens, MAGeCK algorithm, genome-wide screens |
+| 15 | [Single-Cell Multi-omics](15_single_cell_multiomics.md) | scRNA-seq, ATAC-seq, spatial transcriptomics, Seurat |
+| 16 | [Bioinformatics Pipelines](16_bioinformatics_pipelines.md) | Nextflow, Snakemake, WDL, cloud genomics (AWS/GCP) |
+| 17 | [AI for Genomics](17_ai_for_genomics.md) | Deep learning, graph neural nets, transformers for DNA/protein |
+| 18 | [Ethics, Safety, and Regulation](18_ethics_safety_regulation.md) | Biosafety, dual-use research, FDA/EMA, gene therapy ethics |
+| 19 | [Solving Real Problems](19_solving_real_problems.md) | Case studies: COVID-19, sickle cell, CAR-T, insulin |
+| 20 | [Learning Roadmap](20_learning_roadmap.md) | 6-week plan, projects, career paths in computational biology |
 
 ---
 
